@@ -1,0 +1,6 @@
+Name:		ayush
+Faculty:		dcd
+Semester:		dcd
+Phone:		646
+Email:		dcdc
+Father No.:		446

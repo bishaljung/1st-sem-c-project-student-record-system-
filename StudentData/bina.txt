@@ -1,0 +1,6 @@
+Name:bina
+Faculty:home
+Semester:1st
+Phone:455
+Email:jbjhbj
+Father No.:64646
